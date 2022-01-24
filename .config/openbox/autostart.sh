@@ -4,3 +4,4 @@ cairo-dock &
 xscreensaver &
 conky &
 xcompmgr &
+rofi &
