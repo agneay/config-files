@@ -16,7 +16,9 @@
 				<execute>command</execute>
 			</action>
 		</item>
-		<menu id="File_managers" label="">
+		<menu id="File_managers" label="File Managers">
+			
+		</menu>
 		<menu id="Programming" label="Programming">
 			<item label="Kate">
 				<action name="Execute">
