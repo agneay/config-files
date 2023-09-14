@@ -1,4 +1,4 @@
-# config-files  [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+# config-files  
 my personal configuration files    
 
 ![](https://img.shields.io/badge/maintained-yes-green?style=for-the-badge)
